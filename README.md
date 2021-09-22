@@ -1,5 +1,5 @@
 # dataExtractor
-For a given crypto returns a smooth output 
+#### For a given crypto returns a smooth output 
 
 # Requirements
 ```python
