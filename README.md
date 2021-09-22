@@ -9,4 +9,4 @@ pip install numpy
 ```
 #  Features : 
 
-#### Using binance Api and ticker to provide data and present it in the smoothest way on a csv file.
+#### Using Binance Api and ticker to provide data on cryptocurrency and present it in the smoothest way on a csv file.
