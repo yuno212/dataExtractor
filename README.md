@@ -2,7 +2,7 @@
 #### For a given crypto returns a smooth output 
 
 # Requirements
-```python
+#### ```python
 pip install pandas
 print('xd')
 ``
